@@ -17,6 +17,9 @@ You can click the Preview link to take a look at your changes.
     <a href="https://mobile.twitter.com/mamoun_x">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
+    <a href="https://mamoun-tavakol.netlify.app">
+      <img src="https://img.shields.io/badge/-Portfolio-%23ff0077?style=for-the-badge" alt="Portfolio"/>
+    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=mamounx&style=flat-square&color=blue" alt=""/>
   <h1>
